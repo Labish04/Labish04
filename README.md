@@ -23,7 +23,7 @@
 
 Hi, I'm **Labish**, a final-year **BSc Computing with AI** student at **Softwarica College of IT & E-Commerce**, in collaboration with **Coventry University**, based in **Kathmandu, Nepal**. My coursework spans operating systems, algorithms and data structures, big data with PySpark, and machine learning — and I like to turn what I learn in class into something that actually runs end to end.
 
-I've worked as an **AI Engineer** (KrantiTech), a **React Native** freelance developer, and in customer support at **eSewa (F1Soft Group)** — a mix that's given me both a builder's and a user's perspective on software. My background also includes Android and desktop app development with **Kotlin, Java, and Firebase**.
+I've worked as a **React Native**, **.NET**, **React Website** and **AI Model Development** freelance developer a mix that's given me both a builder's and a user's perspective on software. My background also includes Android and desktop app development with **Kotlin, Java, and Firebase**.
 
 Right now I'm splitting time between **big data pipelines**, a **team backend project in .NET**, and **systems-level programming in C**. I'm bilingual in Nepali and English, and I try to keep every repo here honest about where a project actually stands — in progress, coursework, or production-shaped.
 
